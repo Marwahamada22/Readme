@@ -1,6 +1,6 @@
 <p align="center">
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=800&pause=1000&color=926FF7&center=true&repeat=false&random=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Marwa+Hamada" alt="Typing SVG" /></a></h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&pause=1000&color=926FF7&center=true&random=false&width=435&lines=Data+Analyst+%7C+Machine+Learning+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&pause=1000&color=926FF7&center=true&random=false&width=435&lines=Data+Science+and+Machine+Learning" alt="Typing SVG" /></a></h3>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/MarwanAhmed20/MarwanAhmed20/assets/47067493/d14795b1-772d-4b9c-a4da-dc411456ede8">
@@ -47,7 +47,7 @@
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/></a>
 </p>
 
-|<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marwahamada&show_icons=true&locale=en&theme=dark&hide" alt="marwahamada" />|<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marwahamada&show_icons=true&locale=en&layout=compact&theme=dark&hide" alt="marwahamada" /></p>
+|<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marwahamada&show_icons=true&locale=en&theme=dark&hide" alt="marwahamada" />|<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwahamada&langs_count=10&theme=dark&hide=html,css&layout=compact&custom_title=Most%20Used%20Languages&card_width=300&title_color=926FF7&text_color=ffffff&bg_color=000000" alt="Most Used Languages: Python, SQL, R" /></p>
 | ------------- | ------------- |
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marwahamada&&theme=dark&hide" alt="marwahamada" />
