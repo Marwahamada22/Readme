@@ -5,14 +5,23 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/MarwanAhmed20/MarwanAhmed20/assets/47067493/d14795b1-772d-4b9c-a4da-dc411456ede8">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marwahamada&label=Profile%20views&color=0e75b6&style=flat" alt="marwahamada" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=marwahamada&label=Profile%20views&color=0e75b6&style=flat" alt="marwahamada" /> 
+</p>
 
-- 📫 How to reach me: **marwahamada838@gmail.com** <a href="mailto:marwahamada838@gmail.com"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="27" height="27"/> </a>
+- 📫 How to reach me: **marwahamada838@gmail.com** 
+  <a href="mailto:marwahamada838@gmail.com"> 
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="27" height="27"/> 
+  </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/marwahamada/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwahamada" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/marwahamada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="marwahamada" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/marwahamada/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwahamada" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/marwahamada" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="marwahamada" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -47,8 +56,8 @@
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/></a>
 </p>
 
-|<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marwahamada&show_icons=true&locale=en&theme=dark&hide" alt="marwahamada" />|<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwahamada&langs_count=10&theme=dark&hide=html,css&layout=compact&custom_title=Most%20Used%20Languages&card_width=300&title_color=926FF7&text_color=ffffff&bg_color=000000" alt="Most Used Languages: Python, SQL, R" /></p>
-| ------------- | ------------- |
+<!-- Most Used Languages Section (Customized) -->
+<h3 align="left">Most Used Languages:</h3>
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marwahamada&&theme=dark&hide" alt="marwahamada" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwahamada&langs_count=3&theme=dark&hide=html,css&layout=compact&custom_title=Most%20Used%20Languages%3A%20Python%2C%20SQL%2C%20R&card_width=350&title_color=926FF7&text_color=ffffff&bg_color=000000" alt="Most Used Languages: Python, SQL, R" />
 </p>
