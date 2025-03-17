@@ -59,10 +59,5 @@
 <!-- Most Used Languages Section (Customized) -->
 <h3 align="left">Most Used Languages:</h3>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwahamada&langs_count=3&theme=dark&hide=html,css&layout=compact&custom_title=Most%20Used%20Languages%3A%20Python%2C%20SQL%2C%20R&card_width=350&title_color=926FF7&text_color=ffffff&bg_color=000000" alt="Most Used Languages: Most Used Languages
-━━━━━━━━━━━━━━━━━━━━━━━🟣 Python              99%  
-🟠 Jupyter Notebook    89%  
-🔵 SQL                 70%  
-🔴 R                   60%
-" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwahamada&langs_count=3&theme=dark&hide=html,css&layout=compact&custom_title=Most%20Used%20Languages%3A%20Python%2C%20SQL%2C%20R&card_width=350&title_color=926FF7&text_color=ffffff&bg_color=000000" alt="Most Used Languages: Python, SQL, R , jupyter notebook , CSS" />
 </p>
